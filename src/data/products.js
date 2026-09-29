@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    category: "Electronics",
+    price: 2499,
+    emoji: "🎧",
+    description: "Premium wireless headphones with clear sound.",
+  },
+  {
+    id: 2,
+    name: "Smart Watch",
+    category: "Electronics",
+    price: 3499,
+    emoji: "⌚",
+    description: "Modern smartwatch with health and fitness tracking.",
+  },
+  {
+    id: 3,
+    name: "Running Shoes",
+    category: "Fashion",
+    price: 2799,
+    emoji: "👟",
+    description: "Comfortable lightweight shoes for everyday use.",
+  },
+  {
+    id: 4,
+    name: "Laptop Backpack",
+    category: "Accessories",
+    price: 1599,
+    emoji: "🎒",
+    description: "Durable backpack suitable for laptops and travel.",
+  },
+  {
+    id: 5,
+    name: "Mechanical Keyboard",
+    category: "Electronics",
+    price: 2199,
+    emoji: "⌨️",
+    description: "Compact mechanical keyboard for work and gaming.",
+  },
+  {
+    id: 6,
+    name: "Coffee Mug",
+    category: "Home",
+    price: 499,
+    emoji: "☕",
+    description: "Minimal ceramic mug for your daily coffee.",
+  },
+  {
+    id: 7,
+    name: "Desk Lamp",
+    category: "Home",
+    price: 1299,
+    emoji: "💡",
+    description: "Elegant LED desk lamp with adjustable brightness.",
+  },
+  {
+    id: 8,
+    name: "Travel Bottle",
+    category: "Lifestyle",
+    price: 799,
+    emoji: "🥤",
+    description: "Reusable insulated bottle for everyday travel.",
+  },
+];
+
+export default products;
